@@ -1,0 +1,2 @@
+rootProject.name = "Buy & Sell Used Cars"
+include ':app'
